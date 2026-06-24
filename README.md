@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/harvard-cs50.png" width="325">
+</p>
+
 # CS50 SQL – Introduction to Databases with SQL
 
 Harvard University • David J. Malan & Carter Zenke
